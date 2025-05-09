@@ -1,0 +1,116 @@
+{
+    "name": "kitty_train",
+    "description": "Choo-choo.",
+    "version": "1.0",
+    "color": "#6A5ACD",
+    "authors": [
+        {
+            "name": "Bryan",
+            "id": "719283297955610686"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#6A5ACD"
+        ],
+        "HEADER_SECONDARY": [
+            "#FFD700"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#87CEEB"
+        ],
+        "TEXT_LINK": [
+            "#6A5ACD"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#008B8B"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#00FFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#00BFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#00008B"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#191970"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2F4F4F"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#2F4F4F"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#6A5ACD"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#191970"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2F4F4F"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#FFB6C1"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#2F4F4F"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#00BFFF"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3B3B3B"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#6A5ACD"
+        ],
+        "CHANNEL_ICON": [
+            "#6A5ACD"
+        ],
+        "CHAT_BACKGROUND": [
+            "#00008B"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#FFD700"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#191970"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#2F4F4F"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#2F4F4F"
+        ],
+        "BG_BACKDROP": [
+            "#00008B"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#00008B",
+        "PRIMARY_600": "#191970",
+        "PRIMARY_700": "#2F4F4F",
+        "PRIMARY_800": "#6A5ACD",
+        "YELLOW_300": "#FFFF00",
+        "YELLOW_400": "#FFD700",
+        "GREEN_600": "#87CEEB",
+        "GREEN_700": "#008B8B",
+        "GREEN_800": "#00FFFF",
+        "GREEN_900": "#00BFFF",
+        "WHITE_500": "#808080"
+    },
+    "background": {
+        "blur": 0.5,
+        "url": "https://imgur.com/a/bXXn4zy",
+        "alpha": 0.7
+    }
+}
